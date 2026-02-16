@@ -27,3 +27,5 @@
 <C-shift-alt>k -> resize taller
 <C-shift-alt>j -> resize shorter
 <C-shift>w -> close window
+
+kitty +kitten themes
